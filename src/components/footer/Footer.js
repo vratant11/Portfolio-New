@@ -14,7 +14,7 @@ export default function Footer() {
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           Theme by{" "}
-          <a href="https://github.com/vratant11/portfolio">
+          <a href="https://github.com/vratant11/Portfolio-New">
             Vratant
           </a>
         </p>
